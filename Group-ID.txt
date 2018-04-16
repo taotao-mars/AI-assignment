@@ -1,0 +1,6 @@
+Group for CS440 Homework 1.
+Name       (NetID)
+
+Mingzhe Li (ml1252) 
+Chaoqin Chen (cc1504) 
+Guantao Zhao (gz87)
